@@ -1,1 +1,6 @@
-
+country,gdp_per_capita,democracy_score,corruption_score,internet_penetration
+Turkey,15000,4.3,34,83
+Italy,38000,7.7,56,75
+Germany,52000,8.8,79,92
+United States,76000,7.9,69,92
+Singapore,84000,6.2,83,96
