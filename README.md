@@ -17,3 +17,16 @@ The goal of this project is to learn Python, data analysis, and basic visualizat
 ## Current Status
 
 This project is in the beginner stage.
+
+## Dataset
+
+The first version uses a small sample dataset created for learning purposes. Future versions will use official public datasets.
+
+Current indicators:
+- GDP per capita
+- Democracy score
+- Corruption perception score
+- Internet penetration
+
+Dataset file:
+`data/sample_governance_data.csv`
