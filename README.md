@@ -70,3 +70,36 @@ To run locally, install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+## How to Run
+
+You can open the notebook in Google Colab:
+
+1. Go to Google Colab
+2. Click `File > Open notebook`
+3. Select the `GitHub` tab
+4. Paste this repository link
+5. Open `notebooks/governance_analysis.ipynb`
+6. Run the cells from top to bottom
+
+To run locally, install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then open the notebook:
+
+```bash
+jupyter notebook notebooks/governance_analysis.ipynb
+```
+
+## Limitations
+
+This is an early beginner version of the project.
+
+Current limitations:
+- The dataset is small and created for learning purposes.
+- The data should not be used for serious research conclusions.
+- The analysis only includes basic sorting and bar charts.
+- Future versions will use official public datasets.
